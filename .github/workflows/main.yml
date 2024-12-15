@@ -1,4 +1,4 @@
-name: reating ec2
+name: creating ec2
 
 on:
   push:
