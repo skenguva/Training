@@ -1,4 +1,4 @@
-name: Terraform Apply
+name: reating ec2
 
 on:
   push:
